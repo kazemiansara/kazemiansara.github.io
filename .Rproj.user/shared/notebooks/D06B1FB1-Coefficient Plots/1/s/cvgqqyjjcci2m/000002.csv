@@ -1,0 +1,4 @@
+"0","Model.DF(Result, Robust.SE = ""HC3"")"
+"2","Error in coeftest(Model, vcov = sandwich::vcovHC(Model, type = Robust.SE)) : 
+  could not find function ""coeftest""
+"
